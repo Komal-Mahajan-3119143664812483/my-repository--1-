@@ -1,3 +1,4 @@
 commit changes 
 
 stash changes  remote 
+branch change remote
