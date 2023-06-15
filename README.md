@@ -11,3 +11,5 @@ this is line 2
 changes made
 
 this is line six
+
+stash changes remote 
